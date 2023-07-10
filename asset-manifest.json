@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nomadcoders-reactjs-challenge-todo-app/static/js/main.4e1cf56d.js",
+    "index.html": "/nomadcoders-reactjs-challenge-todo-app/index.html",
+    "main.4e1cf56d.js.map": "/nomadcoders-reactjs-challenge-todo-app/static/js/main.4e1cf56d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4e1cf56d.js"
+  ]
+}
